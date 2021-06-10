@@ -7,6 +7,15 @@
 	A <b>Spotify</b> clone, but it's better than.
 </p>
 
+<h1 align="left">
+	✨ Structure
+</h1>
+
+| Codebase             |        Description    |
+| :------------------- | :-------------------: |
+| [baklava](baklava)   |   React.js (Frontend) |
+| [kibbeh](kibbeh)     |   Express (Backend)   |
+
 <h1 align="left">🔖 Legal information</h1>
 <p align="left">
 	Everything shown here is the property of <b>Sandor Kiraly</b>.
